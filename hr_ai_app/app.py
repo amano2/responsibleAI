@@ -3,7 +3,7 @@ from google.genai import types
 from constitution import CONSTITUTION
 
 # Initialize the new GenAI client
-client = genai.Client(api_key="AIzaSyAcpJvZH3Fn0588sN-QBJ2v3SB8aMP7wZs")
+client = genai.Client(api_key="API_KEY")
 
 def apply_constitution(user_input):
     # Format the rules from the constitution
