@@ -14,15 +14,3 @@ This project focuses on identifying and mitigating algorithmic bias, enhancing m
 * **Explainable AI (XAI):** Utilizing **SHAP (SHapley Additive exPlanations)** and **LIME** to provide local and global feature importance visualizations.
 * **Bias Mitigation:** Pre-processing (re-weighing), in-processing (adversarial debiasing), and post-processing techniques to reduce unfair outcomes.
 * **Ethical Checklists:** Documentation and frameworks for conducting AI Ethics Impact Assessments.
-
-## 📂 Repository Structure
-```bash
-├── notebooks/          # Exploratory Data Analysis and Case Studies
-│   ├── COMPAS_analysis.ipynb    # Analyzing bias in recidivism algorithms
-│   └── XAI_demonstration.ipynb  # Visualizing model decisions
-├── src/                # Core Python modules
-│   ├── fairness.py     # Bias detection and mitigation functions
-│   ├── interpret.py    # Wrappers for SHAP/LIME implementations
-│   └── data_utils.py   # Privacy-preserving data loaders
-├── requirements.txt    # Essential libraries (Scikit-learn, AIF360, SHAP, etc.)
-└── README.md
