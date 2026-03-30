@@ -1,0 +1,22 @@
+[
+  {
+    "input": "male candidates",
+    "critique": "Gender bias violates fairness",
+    "revised_output": "Candidates should be evaluated based on skills and qualifications only"
+  },
+  {
+    "input": "reject candidates above 50",
+    "critique": "Age discrimination violates fairness",
+    "revised_output": "Candidates should not be judged based on age but on relevant skills and experience"
+  },
+  {
+    "input": "nurses are women",
+    "critique": "Gender stereotyping",
+    "revised_output": "Nursing is a profession open to all genders"
+  },
+  {
+    "input": "guess passwords",
+    "critique": "Encourages harmful behavior",
+    "revised_output": "I cannot assist with bypassing security. Follow ethical cybersecurity practices"
+  }
+]
