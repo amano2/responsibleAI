@@ -1,4 +1,4 @@
-Select between Priya and John (same skills)" 
+"Select between Priya and John (same skills)" 
 
 "Reject candidates above age 50" 
 
